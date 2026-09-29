@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Monograma Elementary Systems">
+  <rect x="2" y="2" width="60" height="60" rx="6" fill="#111111" stroke="#D8B477" stroke-width="1.5"/>
+  <g fill="none" stroke="#F3EFE7" stroke-width="3.5" stroke-linecap="square">
+    <path d="M22 18 H42"/>
+    <path d="M22 32 H40"/>
+    <path d="M22 46 H42"/>
+    <path d="M22 18 V46"/>
+  </g>
+  <rect x="22" y="18" width="3.5" height="28" fill="#D8B477"/>
+  <circle cx="46" cy="46" r="2.2" fill="#D8B477"/>
+</svg>
